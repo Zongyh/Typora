@@ -2,7 +2,7 @@
 
 ## UML和7大设计原则：
 
-<img src="C:\Users\20130\AppData\Roaming\Typora\typora-user-images\image-20230412182946511.png" alt="image-20230412182946511" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/Zongyh/Typora/main/images/image-20230412182946511.png" alt="image-20230412182946511" style="zoom: 50%;" />
 
 UML特点
 
